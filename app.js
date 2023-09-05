@@ -8,3 +8,5 @@
 // alright users said i ....
 
 // footer added
+
+// * some issues about carts fixed
