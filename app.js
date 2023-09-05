@@ -8,3 +8,4 @@
 // alright users said i ....
 
 // footer added
+// * fixed some issues
