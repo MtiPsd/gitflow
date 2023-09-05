@@ -18,3 +18,5 @@
 // coding ..
 // coding ..
 // finished
+
+// start working in how user is so stupid
